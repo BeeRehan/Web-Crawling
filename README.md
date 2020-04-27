@@ -1,2 +1,2 @@
 # Web-Crawling
-This project is mad for Bipolar Factory internship during my corono holiday. 
+This project is developed  for Bipolar Factory internship during my corono holiday. 
